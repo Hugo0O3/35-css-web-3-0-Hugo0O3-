@@ -1,5 +1,5 @@
 # C'est ici que ça se passe ➡️➡️
-🔗 https://hugo0o3.github.io/35-css-web-3-0-Hugo0O3-/index.html
+🔗 https://hugo0o3.github.io/35-css-web-3-0-Hugo0O3-/
 
 # Web 3.0 Project
 
